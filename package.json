@@ -8,5 +8,9 @@
   "bin": "./index.js",
   "repository": {
     "url": "https://github.com/BennyKok/add-unitylfs"
-  }
+  },
+  "keywords": [
+    "unity",
+    "lfs"
+  ]
 }
