@@ -1,0 +1,12 @@
+{
+  "name": "add-unitylfs",
+  "version": "1.0.0",
+  "description": "Add lfs attr file for Unity",
+  "author": "BennyKok",
+  "license": "MIT",
+  "main": "./index.js",
+  "bin": "./index.js",
+  "repository": {
+    "url": "https://github.com/BennyKok/add-unitylfs"
+  }
+}
